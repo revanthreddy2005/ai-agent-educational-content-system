@@ -73,7 +73,8 @@ Generator → Reviewer → (Fail) → Refinement → Re-Review → Pass
 
 ## 📁 Project Structure
 
-ai_agent_assignment/
+```
+AI_AGENT_ASSIGNMENT/
 │
 ├── app.py # Streamlit UI
 ├── generator.py # Generator Agent
@@ -82,6 +83,7 @@ ai_agent_assignment/
 ├── requirements.txt # Dependencies
 ├── README.md
 └── screenshots/ # Demo images
+```
 
 ---
 
