@@ -119,6 +119,8 @@ Enter your Groq API key directly in the UI when running the app.
 ---
 
 ## 👨‍💻 Author
-**Bommala Revanth Reddy**
-**saireddybommala2005@gmail.com**
-Developed as part of an AI internship assessment.
+- **Bommala Revanth Reddy**
+
+- **saireddybommala2005@gmail.com**
+
+- Developed as part of an AI internship assessment.
